@@ -13,3 +13,4 @@ To add to the release notes, create a pull request for the appropriate file in
 You can preview the release notes for upcoming releases at the
 [in progress release page](https://www.boost.org/users/history/in_progress.html).
 This is updated once an hour.
+Thanks For Joining Us 
